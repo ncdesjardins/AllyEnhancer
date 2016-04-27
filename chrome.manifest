@@ -1,0 +1,3 @@
+content  allyenhancer chrome/content/
+skin     allyenhancer classic/1.0   chrome/skin/classic/
+locale   allyenhancer en-US         chrome/locale/en-US/
